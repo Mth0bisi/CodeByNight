@@ -202,7 +202,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2651.jpg",
-              "heading": "Women Collection 2018",
+              "heading": "Summer is here",
               "heading_appear": "rotateInDownLeft",
               "subheading": "New arrivals",
               "subheading_appear": "rotateInUpRight",
@@ -229,6 +229,7 @@
           "1506803279562": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_2421_fb74125e-c8ea-4d21-a7fb-8e95432ad8e8.jpg",
               "link_text": "Dresses",
               "link": "shopify:\/\/collections\/all"
             }
@@ -236,6 +237,7 @@
           "1506803308948": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_2620.jpg",
               "link_text": "Sunglasses",
               "link": "shopify:\/\/collections\/all"
             }
@@ -243,6 +245,7 @@
           "1514473881970": {
             "type": "image",
             "settings": {
+              "image": "shopify:\/\/shop_images\/IMG_2656.jpg",
               "link_text": "Watches",
               "link": "shopify:\/\/collections\/all"
             }
@@ -278,7 +281,7 @@
           "1514474049400"
         ],
         "settings": {
-          "feature_advert_design": "feature-advert6"
+          "feature_advert_design": "feature-advert3"
         }
       },
       "1504781997946": {
