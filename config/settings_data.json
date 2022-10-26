@@ -158,7 +158,7 @@
         "settings": {
           "footer_layout": "footer-1",
           "footer_content_enable": true,
-          "footer_about_us": "Any questions? Let us know in store at 8th floor, 379 Hudson St, New York, NY 10018 or call us on (+1) 96 716 6879",
+          "footer_about_us": "Any questions? Let us know on email info@newjack.co.za or call us on (+27) 61 259 1086",
           "footer_social_enable": true,
           "footer_menu_1": "",
           "footer_menu_2": "",
@@ -166,7 +166,7 @@
           "footer_newsletter_enable": true,
           "mailing_list_form_action": "",
           "heading": "Subscribe",
-          "footer_content_text": "Copyright © 2018 All rights reserved."
+          "footer_content_text": "Copyright © 2022 All rights reserved."
         }
       },
       "1480267833382": {
@@ -323,7 +323,7 @@
         "settings": {
           "collection_layout": "feature-carousal",
           "heading": "FEATURED PRODUCTS",
-          "collection": "frontpage",
+          "collection": "trending",
           "products_tab_count": "8"
         }
       },
@@ -354,7 +354,8 @@
             "settings": {
               "product_deal": "boxy2-t-shirt-with-roll-sleeve",
               "custom_image": true,
-              "expiry_deal": "2019\/01\/01"
+              "product_image": "shopify:\/\/shop_images\/2020Vision.png",
+              "expiry_deal": "2022\/11\/30"
             }
           }
         },
