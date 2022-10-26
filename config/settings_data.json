@@ -190,9 +190,9 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2406.jpg",
               "heading": "My Hood's Good",
-              "heading_appear": "fadeInDown",
+              "heading_appear": "slideInUp",
               "subheading": "New arrivals",
-              "subheading_appear": "lightSpeedIn",
+              "subheading_appear": "none",
               "slide_link_text": "Shop Now",
               "slide_link": "shopify:\/\/collections",
               "slide_appear": "slideInUp"
@@ -203,9 +203,9 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2589.jpg",
               "heading": "Summer is here",
-              "heading_appear": "rotateInDownLeft",
+              "heading_appear": "slideInUp",
               "subheading": "New arrivals",
-              "subheading_appear": "rotateInUpRight",
+              "subheading_appear": "none",
               "slide_link_text": "Shop Now",
               "slide_link": "shopify:\/\/collections\/all",
               "slide_appear": "rotateIn"
@@ -220,7 +220,7 @@
         "settings": {
           "autoplay": true,
           "autoplay_speed": "10000",
-          "layout_slider": "slider-2"
+          "layout_slider": "slider-1"
         }
       },
       "1503231244573": {
