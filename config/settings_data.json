@@ -188,7 +188,7 @@
           "1480267833382-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2406-2.jpg",
+              "image": "shopify:\/\/shop_images\/IMG_2406.jpg",
               "heading": "My Hood's Good",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
@@ -324,7 +324,7 @@
           "collection_layout": "feature-carousal",
           "heading": "FEATURED PRODUCTS",
           "collection": "trending",
-          "products_tab_count": "8"
+          "products_tab_count": "4"
         }
       },
       "1507203403431": {
