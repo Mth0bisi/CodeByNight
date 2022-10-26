@@ -142,7 +142,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "header_layout": "header-2",
+          "header_layout": "header-1",
           "use_top_bar": false,
           "top_bar_message": "Free shipping for standard order over R600",
           "show_email": true,
@@ -188,7 +188,7 @@
           "1480267833382-0": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2594.jpg",
+              "image": "shopify:\/\/shop_images\/IMG_2406-2.jpg",
               "heading": "My Hood's Good",
               "heading_appear": "rollIn",
               "subheading": "New arrivals",
@@ -201,7 +201,7 @@
           "1507555687103": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/IMG_2651.jpg",
+              "image": "shopify:\/\/shop_images\/IMG_2589.jpg",
               "heading": "Summer is here",
               "heading_appear": "rotateInDownLeft",
               "subheading": "New arrivals",
@@ -230,7 +230,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2421_fb74125e-c8ea-4d21-a7fb-8e95432ad8e8.jpg",
-              "link_text": "Dresses",
+              "link_text": "T-Shirts",
               "link": "shopify:\/\/collections\/all"
             }
           },
@@ -238,7 +238,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2620.jpg",
-              "link_text": "Sunglasses",
+              "link_text": "Hoodies",
               "link": "shopify:\/\/collections\/all"
             }
           },
@@ -246,7 +246,7 @@
             "type": "image",
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2656.jpg",
-              "link_text": "Watches",
+              "link_text": "Hats",
               "link": "shopify:\/\/collections\/all"
             }
           },
