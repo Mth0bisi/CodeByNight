@@ -190,7 +190,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2406.jpg",
               "heading": "My Hood's Good",
-              "heading_appear": "rollIn",
+              "heading_appear": "fadeInDown",
               "subheading": "New arrivals",
               "subheading_appear": "lightSpeedIn",
               "slide_link_text": "Shop Now",
@@ -220,7 +220,7 @@
         "settings": {
           "autoplay": true,
           "autoplay_speed": "10000",
-          "layout_slider": "slider-1"
+          "layout_slider": "slider-2"
         }
       },
       "1503231244573": {
@@ -290,15 +290,15 @@
           "1504781997946-0": {
             "type": "box",
             "settings": {
-              "feature_service_title": "Free Delivery Worldwide",
-              "feature_service_description": "Mirum est notare quam littera gothica"
+              "feature_service_title": "Free Delivery",
+              "feature_service_description": "For orders over R600"
             }
           },
           "1504781997946-1": {
             "type": "box",
             "settings": {
-              "feature_service_title": "30 Days Return",
-              "feature_service_description": "Simply return it within 30 days for an exchange."
+              "feature_service_title": "7 Days Return",
+              "feature_service_description": "Simply return it within 7 days for an exchange."
             }
           },
           "1504782065705": {
@@ -329,14 +329,16 @@
       },
       "1507203403431": {
         "type": "blog",
+        "disabled": true,
         "settings": {
-          "layout": "blog-1",
+          "layout": "blog-2",
           "heading": "Our Blog",
           "blog": "news"
         }
       },
       "1508329681974": {
         "type": "instagram-feed",
+        "disabled": true,
         "settings": {
           "layout": "instafeed",
           "homepage_instagram_feed": true,
