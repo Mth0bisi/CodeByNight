@@ -5,7 +5,7 @@
     "type_accent_family": "'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif",
     "favicon_enable": true,
     "img_size_product": "700x933",
-    "img_size_grid": "1200x1600",
+    "img_size_grid": "500x500",
     "product_new_time": "7",
     "product_grid_img_carousel": false,
     "fixed_search_bar_enable": false,
@@ -305,7 +305,7 @@
             "type": "box",
             "settings": {
               "feature_service_title": "Store Opening",
-              "feature_service_description": "Shop open from Monday to Sunday"
+              "feature_service_description": "Shop open from Monday to Sunday, 8AM -  5PM."
             }
           }
         },
@@ -366,9 +366,10 @@
         ],
         "settings": {
           "collection_layout": "deals-layout1",
-          "heading": "The Beauty",
-          "subheading": "Lookbook",
-          "link_text": "View Collection",
+          "image": "shopify:\/\/shop_images\/Sizok_hlala_Lokish_-removebg-preview.png",
+          "heading": "",
+          "subheading": "",
+          "link_text": "",
           "link": "shopify:\/\/collections\/all"
         }
       }
