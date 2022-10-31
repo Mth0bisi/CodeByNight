@@ -41,7 +41,7 @@
     "collection_sidebar_filters": "groups",
     "show_collection_side_image": true,
     "collection_side_link": "#",
-    "show_collection_side_listing": false,
+    "show_collection_side_listing": true,
     "collection_side_listing_title": "Popular Products",
     "collection_side_listing": "top-seller",
     "show_about_top_image": true,
