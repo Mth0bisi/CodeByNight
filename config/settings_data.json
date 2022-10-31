@@ -53,7 +53,7 @@
     "show_blog_side_listing": true,
     "blog_side_listing_title": "Featured Products",
     "blog_side_listing": "featured",
-    "shipping_calculator": "Enabled",
+    "shipping_calculator": "Disabled",
     "shipping_calculator_heading": "Get shipping estimates",
     "shipping_calculator_default_country": "United States",
     "shipping_calculator_submit_button_label": "Calculate shipping",
