@@ -144,7 +144,7 @@
         "type": "header",
         "settings": {
           "header_layout": "header-1",
-          "use_top_bar": false,
+          "use_top_bar": true,
           "top_bar_message": "Free shipping for standard order over R600",
           "show_email": true,
           "show_social_links": true,
