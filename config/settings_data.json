@@ -5,7 +5,7 @@
     "type_accent_family": "'Big Caslon', 'Book Antiqua', 'Palatino Linotype', Georgia, serif",
     "favicon_enable": true,
     "img_size_product": "700x933",
-    "img_size_grid": "500x500",
+    "img_size_grid": "200x200",
     "product_new_time": "7",
     "product_grid_img_carousel": false,
     "fixed_search_bar_enable": false,
@@ -367,10 +367,10 @@
         "settings": {
           "collection_layout": "deals-layout1",
           "image": "shopify:\/\/shop_images\/Sizok_hlala_Lokish_-removebg-preview.png",
-          "heading": "",
+          "heading": "Hot Sale",
           "subheading": "",
-          "link_text": "",
-          "link": "shopify:\/\/collections\/all"
+          "link_text": "Sale Collection",
+          "link": "shopify:\/\/products\/20-20-vision-t-shirt"
         }
       },
       "f2a48b14-3abc-49ad-95b8-1db68ccf3af2": {
