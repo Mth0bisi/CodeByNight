@@ -60,7 +60,7 @@
     "shipping_calculator_submit_button_label_disabled": "Calculating...",
     "show_pupup": true,
     "popup_title": "newsletter",
-    "show_pupup_image": false,
+    "show_pupup_image": true,
     "popup_heading": "SUBSCRIBE TO OUR NEWSLETTER",
     "popup_description": "Enter your email address to receive all news, updates on new arrivals, special offers and other discount information.",
     "popup_btn_text": "Subscribe",
