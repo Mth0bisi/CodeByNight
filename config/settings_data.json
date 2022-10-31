@@ -10,7 +10,7 @@
     "product_grid_img_carousel": false,
     "fixed_search_bar_enable": true,
     "color_skin": "#e65540",
-    "color_top_header": "#e65540",
+    "color_top_header": "{{ shop.brand.colors.primary[1].background }}",
     "color_top_header_label": "#888888",
     "color_center_header": "#ffffff",
     "color_menu_links": "#333333",
