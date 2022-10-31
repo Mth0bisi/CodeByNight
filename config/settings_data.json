@@ -395,15 +395,15 @@
       "f2a48b14-3abc-49ad-95b8-1db68ccf3af2"
     ],
     "blocks": {
-      "14952540001915115444": {
-        "type": "shopify:\/\/apps\/upcart-slide-cart-drawer\/blocks\/app-embed\/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
         "settings": {
         }
       },
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
+      "14952540001915115444": {
+        "type": "shopify:\/\/apps\/upcart-slide-cart-drawer\/blocks\/app-embed\/af3da5fb-f5f7-40ec-8273-41bf50059d4b",
+        "disabled": true,
         "settings": {
         }
       }
