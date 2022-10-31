@@ -231,7 +231,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2421_fb74125e-c8ea-4d21-a7fb-8e95432ad8e8.jpg",
               "link_text": "T-Shirts",
-              "link": "shopify:\/\/collections\/all"
+              "link": "shopify:\/\/collections\/t-shirts"
             }
           },
           "1506803308948": {
@@ -239,7 +239,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2620.jpg",
               "link_text": "Hoodies",
-              "link": "shopify:\/\/collections\/all"
+              "link": "shopify:\/\/collections\/hoodies"
             }
           },
           "1514473881970": {
@@ -247,7 +247,7 @@
             "settings": {
               "image": "shopify:\/\/shop_images\/IMG_2231.jpg",
               "link_text": "Hats",
-              "link": "shopify:\/\/collections\/all"
+              "link": "shopify:\/\/collections\/hats"
             }
           },
           "1514473919786": {
