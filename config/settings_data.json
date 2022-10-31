@@ -39,7 +39,7 @@
     "show_collection_sidebar": true,
     "category_count": "5",
     "collection_sidebar_filters": "groups",
-    "show_collection_side_image": false,
+    "show_collection_side_image": true,
     "collection_side_link": "#",
     "show_collection_side_listing": false,
     "collection_side_listing_title": "Random Products",
