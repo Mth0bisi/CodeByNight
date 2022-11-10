@@ -144,7 +144,7 @@
         "settings": {
           "header_layout": "header-2",
           "use_top_bar": true,
-          "top_bar_message": "Complete your order on Whatsapp, click the Message us button.",
+          "top_bar_message": "Click the Whatsapp button to complete your order on Whatsapp.",
           "show_email": true,
           "show_social_links": true,
           "header_email_text": "info@newjack.co.za",
