@@ -405,6 +405,12 @@
         "disabled": true,
         "settings": {
         }
+      },
+      "1551801274261955848": {
+        "type": "shopify:\/\/apps\/getbutton-whatsapp-fb-more\/blocks\/embed\/8496319f-de1e-4949-b0de-1602d715f2b0",
+        "disabled": false,
+        "settings": {
+        }
       }
     }
   },
